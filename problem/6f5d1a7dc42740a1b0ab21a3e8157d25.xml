@@ -1,0 +1,12 @@
+<problem display_name="One rectangular region" markdown="null">
+  <p>In the following image, click inside the blue rectangle.</p>
+  <imageresponse>
+    <imageinput src="/static/imageresponse_oneregion.png" width="400" height="400" rectangle="(72,15)-(250,155)" alt="Three rectangles"/>
+  </imageresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>This would be the explanation.</p>
+    </div>
+  </solution>
+</problem>

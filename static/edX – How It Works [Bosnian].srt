@@ -1,0 +1,204 @@
+1
+00:00:00,026 --> 00:00:01,051
+ Anant AGARWAL: Dobrodošli u edX. 
+
+2
+00:00:01,051 --> 00:00:03,148
+ Ja sam Anant Agarwal, ja sam predsjednik edX, 
+
+3
+00:00:04,048 --> 00:00:06,143
+ Ja sam i profesor elektrotehnike i računarstva 
+
+4
+00:00:07,043 --> 00:00:07,140
+ na MIT-u. 
+
+5
+00:00:08,004 --> 00:00:10,076
+ Online učenje je revoluciju u svijetu. 
+
+6
+00:00:11,012 --> 00:00:14,029
+ Obrazovanje nikada neće biti isti, i edX 
+
+7
+00:00:14,029 --> 00:00:16,065
+ je na vrhuncu ove revolucije, 
+
+8
+00:00:16,065 --> 00:00:20,079
+ tako da kada se uzme edX kurseve online, vi ste dio ove evolucije. 
+
+9
+00:00:20,079 --> 00:00:22,155
+ Online učenje je krajnji democratizer. 
+
+10
+00:00:23,055 --> 00:00:25,119
+ Kada učite na edX, ti pridruživanje zajednici. 
+
+11
+00:00:26,019 --> 00:00:31,047
+ Zamislite uzimanje klase sa 100,000 ili više students-- ove društvene, 
+
+12
+00:00:31,047 --> 00:00:32,044
+ ovo je jako zabavno. 
+
+13
+00:00:32,467 --> 00:00:34,050
+ Mislim da ćete uživati ​​u iskustvo. 
+
+14
+00:00:34,005 --> 00:00:37,040
+ Na edX radi se o ljudima, ne radi se o profit. 
+
+15
+00:00:37,004 --> 00:00:41,070
+ Za tebe, edX je o najboljem predmeta iz najbolje škole i najbolji 
+
+16
+00:00:42,006 --> 00:00:42,091
+ profesori. 
+
+17
+00:00:42,091 --> 00:00:44,830
+ Postati član edX je lako. 
+
+18
+00:00:45,649 --> 00:00:47,690
+ Zvučnik 2: Zaista smo uzbuđeni što si ovdje. 
+
+19
+00:00:47,069 --> 00:00:50,156
+ Mi ćemo te started-- brzo, tri jednostavna koraka, pregledavati, 
+
+20
+00:00:51,056 --> 00:00:53,099
+ birati, i imaju neke zabave. 
+
+21
+00:00:53,099 --> 00:00:57,151
+ Registracija traje sekundi, a jednom registrujete samo pregledavati kurseva. 
+
+22
+00:00:58,051 --> 00:01:00,087
+ Kada pronađete nešto što vam se sviđa, kliknite na nju. 
+
+23
+00:01:00,087 --> 00:01:00,186
+ To je jednostavno. 
+
+24
+00:01:01,086 --> 00:01:04,115
+ Odaberite mudro, vi odabirom predmeta iz najboljih škola 
+
+25
+00:01:05,015 --> 00:01:06,057
+ Oko svijeta. 
+
+26
+00:01:06,057 --> 00:01:08,057
+ Pobrinite se da provjerite preduvjete. 
+
+27
+00:01:08,057 --> 00:01:10,993
+ Sada možete odabrati svoj kurs i vi ste na putu. 
+
+28
+00:01:11,506 --> 00:01:12,509
+ Dobro došli u klub. 
+
+29
+00:01:12,509 --> 00:01:15,550
+ GOVORI 3: Sad kad ste se prijavili za ispit, možete pogledati courseware. 
+
+30
+00:01:15,055 --> 00:01:18,068
+ U courseware se sastoji od velikog videa, Automated povratne informacije, 
+
+31
+00:01:18,068 --> 00:01:21,103
+ i cool interaktivne značajke, sve za samostalno učenje tempom. 
+
+32
+00:01:22,003 --> 00:01:24,008
+ U interactives su dizajnirani da vam pomogne 
+
+33
+00:01:24,008 --> 00:01:26,063
+ istražite razumijevanje ključnih koncepata. 
+
+34
+00:01:26,063 --> 00:01:29,219
+ Veliki dio edX postaje instant povratne informacije o svojim odgovorima, 
+
+35
+00:01:29,786 --> 00:01:31,660
+ često u obliku zeleni znak. 
+
+36
+00:01:31,066 --> 00:01:33,065
+ U mnogo pitanja, možete pokušati koliko god puta 
+
+37
+00:01:33,659 --> 00:01:35,570
+ kao što vam je potrebno da se to pravi odgovor. 
+
+38
+00:01:35,057 --> 00:01:37,149
+ Tečajevi može biti teško, budemo sigurni da su rigorozne, 
+
+39
+00:01:38,049 --> 00:01:39,794
+ ali oni mogu biti i puno zabave. 
+
+40
+00:01:40,235 --> 00:01:42,970
+ Veliki dio edX je društveni aspekt. 
+
+41
+00:01:42,097 --> 00:01:44,166
+ Možete biti socijalna kao što želite na diskusiju odborima. 
+
+42
+00:01:45,066 --> 00:01:47,094
+ U našem forumima, tu je aktivan u zajednici. 
+
+43
+00:01:47,094 --> 00:01:49,179
+ To nije samo profesori, učenici pomažu jedni drugima. 
+
+44
+00:01:50,079 --> 00:01:53,191
+ Tipičan Naravno da pokrenete semestar dužine, ili oko 12 tjedana. 
+
+45
+00:01:53,902 --> 00:01:56,610
+ Na kraju da, naravno, ako ste ispunjeni uslovi kursa, 
+
+46
+00:01:56,061 --> 00:01:57,068
+ možete dobiti potvrdu o majstorstva. 
+
+47
+00:01:58,031 --> 00:02:01,092
+ Nakon što ste završili Naravno, vi ste dio naše grupe cjeloživotnog učenika. 
+
+48
+00:02:01,092 --> 00:02:04,130
+ Anant AGARWAL: misija EdX je da vam pomoći da dobijete kvalitetno obrazovanje. 
+
+49
+00:02:05,003 --> 00:02:09,592
+ EdX će se povećati pristup učenju za učenike, kao što su sami diljem svijeta. 
+
+50
+00:02:09,889 --> 00:02:13,350
+ Ovo je zabavno, to je uzbudljivo, a ovo je revolucionarni. 
+
+51
+00:02:13,035 --> 00:02:16,069
+ Dobrodošli u edX, pridružite nam se. 
+

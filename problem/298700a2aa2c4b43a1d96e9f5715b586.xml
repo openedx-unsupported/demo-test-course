@@ -1,0 +1,12 @@
+<problem display_name="irregular region" markdown="null">
+  <p>In the following image, click inside the pentagon.</p>
+  <imageresponse>
+    <imageinput src="/static/imageresponse_irregularregion.png" width="400" height="163" regions="[[96,105], [125,85], [156,105], [145,140],    [105,140]]" alt="A series of 10 shapes including a circle, triangle,    trapezoid, pentagon, star, and octagon"/>
+  </imageresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>This would be the explanation.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,35 @@
+<problem display_name="Text only - Unordered equal rule" markdown="null" showanswer="attempted">
+  <p> Allopurinol is a drug used to treat and prevent gout, a very painful form of arthritis. Once only a “rich man’s disease”, gout has become more and more common in recent decades – affecting about 3 million people in the United States alone. Deposits of needle-like crystals of uric acid in connective tissue or joint spaces cause the symptoms of swelling, stiffness and intense pain. Individuals with gout overproduce uric acid because they cannot eliminate it efficiently. Allopurinol treats and prevents gout by stopping the overproduction of uric acid through inhibition of an enzyme required for the synthesis of uric acid. </p>
+  <p> You are shown one of many possible molecules. On the structure of allopurinol below, identify the functional groups that are present by dragging the functional group name listed onto the appropriate target boxes on the structure. If you want to change an answer, you have to drag off the name as well. You may need to scroll through the names of functional groups to see all options. </p>
+  <customresponse>
+    <drag_and_drop_input no_labels="true" one_per_target="true" target_outline="true" img="/static/Allopurinol.gif">
+      <draggable can_reuse="true" label="methyl" id="1"/>
+      <draggable can_reuse="true" label="hydroxyl" id="2"/>
+      <draggable can_reuse="true" label="amino" id="3"/>
+      <draggable can_reuse="true" label="carboxyl" id="4"/>
+      <draggable can_reuse="true" label="aldehyde" id="5"/>
+      <draggable can_reuse="true" label="phosphate" id="6"/>
+      <draggable can_reuse="true" label="sulfhydryl" id="7"/>
+      <draggable can_reuse="true" label="phenyl" id="8"/>
+      <draggable can_reuse="true" label="none" id="none"/>
+      <target id="0" h="53" w="66" y="55.100006103515625" x="131.5"/>
+      <target id="1" h="113" w="55" y="140.10000610351562" x="181.5"/>
+    </drag_and_drop_input>
+    <answer type="loncapa/python">
+correct_answer = [
+    {'draggables': ['2'], 'targets': ['0' ], 'rule':'unordered_equal' },
+    {'draggables': ['none'], 'targets': ['1' ], 'rule':'unordered_equal' }]
+if draganddrop.grade(submission[0], correct_answer):
+    correct = ['correct']
+else:
+    correct = ['incorrect']
+    </answer>
+  </customresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>This would be the explanation.</p>
+      <img src="/static/AllopurinolAnswer.gif"/>
+    </div>
+  </solution>
+</problem>

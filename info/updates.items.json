@@ -1,0 +1,14 @@
+[
+    {
+        "content": "This is a first update with date", 
+        "date": "October 14, 2015", 
+        "id": 1, 
+        "status": "visible"
+    }, 
+    {
+        "content": "This is a second update without date", 
+        "date": "", 
+        "id": 2, 
+        "status": "visible"
+    }
+]

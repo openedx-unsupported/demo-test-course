@@ -1,0 +1,204 @@
+1
+00:00:00,026 --> 00:00:01,051
+ ANANT AGARWAL: Bienvenue à edX. 
+
+2
+00:00:01,051 --> 00:00:03,148
+ Je suis Anant Agarwal, je suis le président de edX, 
+
+3
+00:00:04,048 --> 00:00:06,143
+ Je suis aussi un professeur de génie électrique et informatique 
+
+4
+00:00:07,043 --> 00:00:07,140
+ au MIT. 
+
+5
+00:00:08,004 --> 00:00:10,076
+ L'apprentissage en ligne est en train de révolutionner le monde. 
+
+6
+00:00:11,012 --> 00:00:14,029
+ Éducation ne sera jamais le même, et edX 
+
+7
+00:00:14,029 --> 00:00:16,065
+ est à la pointe de cette révolution, 
+
+8
+00:00:16,065 --> 00:00:20,079
+ Ainsi, lorsque vous prenez des cours EDX en ligne, vous faites partie de cette évolution. 
+
+9
+00:00:20,079 --> 00:00:22,155
+ L'apprentissage en ligne est la democratizer ultime. 
+
+10
+00:00:23,055 --> 00:00:25,119
+ Quand vous apprenez sur edX, vous rejoignez une communauté. 
+
+11
+00:00:26,019 --> 00:00:31,047
+ Imaginez prendre une classe avec 100,000 habitants ou plus cette students-- sociale, 
+
+12
+00:00:31,047 --> 00:00:32,044
+ ceci est un beaucoup de plaisir. 
+
+13
+00:00:32,467 --> 00:00:34,050
+ Je pense que vous pourrez profiter de l'expérience. 
+
+14
+00:00:34,005 --> 00:00:37,040
+ Au edX on parle de gens, il est pas de but lucratif. 
+
+15
+00:00:37,004 --> 00:00:41,070
+ Pour vous, edX est sur les meilleurs terrains de golf dans les meilleures écoles et les meilleurs 
+
+16
+00:00:42,006 --> 00:00:42,091
+ professeurs. 
+
+17
+00:00:42,091 --> 00:00:44,830
+ Devenir un membre de edX est facile. 
+
+18
+00:00:45,649 --> 00:00:47,690
+ SPEAKER 2: Nous sommes très heureux de vous avoir ici. 
+
+19
+00:00:47,069 --> 00:00:50,156
+ Nous allons pour vous started-- rapide, trois étapes faciles, parcourir, 
+
+20
+00:00:51,056 --> 00:00:53,099
+ choisir, et avoir du plaisir. 
+
+21
+00:00:53,099 --> 00:00:57,151
+ Inscription prend que quelques secondes, et une fois que vous vous inscrivez il suffit de parcourir les cours. 
+
+22
+00:00:58,051 --> 00:01:00,087
+ Lorsque vous trouvez quelque chose que vous aimez, cliquez dessus. 
+
+23
+00:01:00,087 --> 00:01:00,186
+ Il est si facile. 
+
+24
+00:01:01,086 --> 00:01:04,115
+ Choisissez judicieusement, vous choisissez les cours des meilleures écoles 
+
+25
+00:01:05,015 --> 00:01:06,057
+ partout dans le monde. 
+
+26
+00:01:06,057 --> 00:01:08,057
+ Assurez-vous de vérifier les conditions préalables. 
+
+27
+00:01:08,057 --> 00:01:10,993
+ Maintenant, vous pouvez choisir votre cours et vous êtes sur votre chemin. 
+
+28
+00:01:11,506 --> 00:01:12,509
+ Bienvenue au club. 
+
+29
+00:01:12,509 --> 00:01:15,550
+ Intervenant 3: Maintenant que vous avez signé pour sûr, vous pouvez voir les didacticiels. 
+
+30
+00:01:15,055 --> 00:01:18,068
+ Le didacticiel est constitué de superbes vidéos, commentaires automatisé, 
+
+31
+00:01:18,068 --> 00:01:21,103
+ et des fonctionnalités interactives fraîches, le tout pour l'apprentissage auto-formation. 
+
+32
+00:01:22,003 --> 00:01:24,008
+ Les interactives sont conçus pour vous aider 
+
+33
+00:01:24,008 --> 00:01:26,063
+ explorer votre compréhension des concepts clés. 
+
+34
+00:01:26,063 --> 00:01:29,219
+ Une grande partie de edX devient une rétroaction instantanée de vos réponses, 
+
+35
+00:01:29,786 --> 00:01:31,660
+ souvent sous la forme d'une coche verte. 
+
+36
+00:01:31,066 --> 00:01:33,065
+ Dans beaucoup de questions, vous pouvez essayer autant de fois 
+
+37
+00:01:33,659 --> 00:01:35,570
+ que vous avez besoin pour obtenir ce droit de réponse. 
+
+38
+00:01:35,057 --> 00:01:37,149
+ Les cours peuvent être difficile, nous nous assurons qu'ils sont rigoureux, 
+
+39
+00:01:38,049 --> 00:01:39,794
+ mais ils peuvent aussi être beaucoup de plaisir. 
+
+40
+00:01:40,235 --> 00:01:42,970
+ Une grande partie de edX est l'aspect social. 
+
+41
+00:01:42,097 --> 00:01:44,166
+ Vous pouvez être un sociale que vous voulez sur les forums de discussion. 
+
+42
+00:01:45,066 --> 00:01:47,094
+ Dans nos forums, il ya une communauté très active. 
+
+43
+00:01:47,094 --> 00:01:49,179
+ Il ne suffit pas les professeurs, les étudiants aider les uns les autres. 
+
+44
+00:01:50,079 --> 00:01:53,191
+ Un cours typique peut exécuter une longueur de semestre, ou environ 12 semaines. 
+
+45
+00:01:53,902 --> 00:01:56,610
+ À la fin de ce cours, si vous avez rencontré les exigences de cours, 
+
+46
+00:01:56,061 --> 00:01:57,068
+ vous pouvez obtenir un certificat de maîtrise. 
+
+47
+00:01:58,031 --> 00:02:01,092
+ Une fois que vous avez terminé le cours, vous faites partie de notre groupe d'apprenants permanents. 
+
+48
+00:02:01,092 --> 00:02:04,130
+ ANANT AGARWAL: la mission de EDX est de vous aider à obtenir une éducation de qualité. 
+
+49
+00:02:05,003 --> 00:02:09,592
+ EDX augmentera l'accès à l'apprentissage pour les étudiants comme vous-même dans le monde entier. 
+
+50
+00:02:09,889 --> 00:02:13,350
+ Ceci est amusant, cela est passionnant, et cela est révolutionnaire. 
+
+51
+00:02:13,035 --> 00:02:16,069
+ Bienvenue à edX, venez nous rejoindre. 
+

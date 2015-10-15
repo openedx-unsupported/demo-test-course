@@ -1,0 +1,12 @@
+<problem display_name="Multiple rectangular regions" markdown="null">
+  <p>In the following image, click inside any of the rectangles.</p>
+  <imageresponse>
+    <imageinput src="/static/imageresponse_multipleregions.png" width="400" height="400" rectangle="(72,15)-(250,155);(38,304)-(272,350);(300,207)-        (375,371)" alt="Three rectangles"/>
+  </imageresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>This would be the explanation.</p>
+    </div>
+  </solution>
+</problem>

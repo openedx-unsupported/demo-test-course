@@ -1,0 +1,19 @@
+<problem display_name="Dropdown with Hints and Feedback" markdown="&#10;You can provide feedback for each available option in a dropdown problem.&#10;&#10;You can also add hints for learners.&#10;&#10;Be sure to select Settings to specify a Display Name and other values that apply.&#10;&#10;Use the following example problem as a model.&#10;&#10;&gt;&gt; A/an ________ is a vegetable.&lt;&lt;&#10;&#10;[[&#10;    apple {{An apple is the fertilized ovary that comes from an apple tree and contains seeds, meaning it is a fruit.}}&#10;    pumpkin {{A pumpkin is the fertilized ovary of a squash plant and contains seeds, meaning it is a fruit.}}&#10;    (potato) {{A potato is an edible part of a plant in tuber form and is a vegetable.}}&#10;    tomato {{Many people mistakenly think a tomato is a vegetable. However, because a tomato is the fertilized ovary of a tomato plant and contains seeds, it is a fruit.}}&#10;]]&#10;&#10;||A fruit is the fertilized ovary from a flower.||&#10;||A fruit contains seeds of the plant.||&#10;">
+  <p>You can provide feedback for each available option in a dropdown problem.</p>
+  <p>You can also add hints for learners.</p>
+  <p>Use the following example problem as a model.</p>
+  <p> A/an ________ is a vegetable.</p>
+  <br/>
+  <optionresponse>
+    <optioninput>
+      <option correct="False">apple <optionhint>An apple is the fertilized ovary that comes from an apple tree and contains seeds, meaning it is a fruit.</optionhint></option>
+      <option correct="False">pumpkin <optionhint>A pumpkin is the fertilized ovary of a squash plant and contains seeds, meaning it is a fruit.</optionhint></option>
+      <option correct="True">potato <optionhint>A potato is an edible part of a plant in tuber form and is a vegetable.</optionhint></option>
+      <option correct="False">tomato <optionhint>Many people mistakenly think a tomato is a vegetable. However, because a tomato is the fertilized ovary of a tomato plant and contains seeds, it is a fruit.</optionhint></option>
+    </optioninput>
+  </optionresponse>
+  <demandhint>
+    <hint>A fruit is the fertilized ovary from a flower.</hint>
+    <hint>A fruit contains seeds of the plant.</hint>
+  </demandhint>
+</problem>

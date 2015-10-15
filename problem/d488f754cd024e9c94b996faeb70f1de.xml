@@ -1,0 +1,38 @@
+<problem display_name="Drag images only - exact rule" markdown="null" showanswer="attempted">
+  <p>
+  In drag and drop problems, students respond to a question by dragging text or objects to a specific location on an image.
+  </p>
+  <p>
+  This is an example where the user drags images on top of the base image</p>
+  <p>_____________________________________________________________________________</p>
+  <customresponse>
+    <text>
+      <h3>Simple Drag and Drop</h3>
+      <p>Drag each image in the scrollbar to the bucket that matches the number of letters in the word.</p>
+    </text>
+    <drag_and_drop_input img="/static/hackathon-puzzle-base.png" target_outline="true" one_per_target="true">
+      <draggable id="1" icon="/static/hackathon-puzzle-1.png"/>
+      <draggable id="2" icon="/static/hackathon-puzzle-2.png"/>
+      <draggable id="3" icon="/static/hackathon-puzzle-3.png"/>
+      <target id="1" x="1" y="1" w="350" h="170"/>
+      <target id="2" x="1" y="170" w="200" h="188"/>
+      <target id="3" x="200" y="170" w="150" h="188"/>
+    </drag_and_drop_input>
+    <answer type="loncapa/python">
+correct_answer =[
+          { 'draggables': ['1'], 'targets': ['1'],  'rule':'exact'  },
+		  { 'draggables': ['2'], 'targets': ['2'],  'rule':'exact'  },
+		  { 'draggables': ['3'], 'targets': ['3'],  'rule':'exact'  } ]         
+if draganddrop.grade(submission[0], correct_answer):
+    correct = ['correct']
+else:
+    correct = ['incorrect']
+        </answer>
+  </customresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>This would be the explanation.</p>
+    </div>
+  </solution>
+</problem>

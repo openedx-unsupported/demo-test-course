@@ -1,0 +1,181 @@
+{
+    "course/course": {
+        "advanced_modules": [
+            "poll", 
+            "survey", 
+            "annotatable", 
+            "edx_sga", 
+            "google-calendar", 
+            "google-document", 
+            "word_cloud", 
+            "recommender", 
+            "split_test"
+        ], 
+        "cert_html_view_enabled": true, 
+        "cert_name_long": "Demonstration Testing Course", 
+        "cert_name_short": "Demo Test", 
+        "course_image": "demo_course_image.jpg", 
+        "discussion_blackouts": [], 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_coursenumber": null, 
+        "display_name": "Testing Course", 
+        "display_organization": "Open edX", 
+        "end": "2030-12-31T23:30:00Z", 
+        "enrollment_end": "2030-12-31T23:30:00Z", 
+        "enrollment_start": "2015-10-01T00:30:00Z", 
+        "graceperiod": "300 seconds", 
+        "html_textbooks": [
+            {
+                "chapters": [
+                    {
+                        "title": "Frankenstein, or the Modern Prometheus", 
+                        "url": "frankenstein.html"
+                    }
+                ], 
+                "tab_title": "Frankenstein"
+            }
+        ], 
+        "is_new": false, 
+        "ispublic": false, 
+        "language": "en", 
+        "minimum_grade_credit": 0.8, 
+        "mobile_available": true, 
+        "pdf_textbooks": [
+            {
+                "chapters": [
+                    {
+                        "title": "Chapter 1", 
+                        "url": "/static/mytesttextbook1-1.pdf"
+                    }, 
+                    {
+                        "title": "Chapter 2", 
+                        "url": "/static/mytesttextbook1-2.pdf"
+                    }, 
+                    {
+                        "title": "Chapter 3", 
+                        "url": "/static/mytesttextbook1-3.pdf"
+                    }
+                ], 
+                "id": "0Example_textbook1", 
+                "tab_title": "Example textbook1"
+            }, 
+            {
+                "chapters": [
+                    {
+                        "title": "Chapter 1", 
+                        "url": "/static/mytesttextbook1-1.pdf"
+                    }, 
+                    {
+                        "title": "Chapter 2", 
+                        "url": "/static/mytesttextbook1-2.pdf"
+                    }, 
+                    {
+                        "title": "Chapter 3", 
+                        "url": "/static/mytesttextbook1-3.pdf"
+                    }
+                ], 
+                "id": "3Example_textbook2", 
+                "tab_title": "Example textbook2"
+            }
+        ], 
+        "show_calculator": true, 
+        "show_chat": true, 
+        "show_reset_button": true, 
+        "start": "2015-10-01T00:30:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }, 
+            {
+                "name": "Custom page 1", 
+                "type": "static_tab", 
+                "url_slug": "661eafb0214445b2a0c7d4e3260c3b08"
+            }, 
+            {
+                "name": "Custom Page 2", 
+                "type": "static_tab", 
+                "url_slug": "184f9fcff5ca4d86bb648502e36df0f2"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "pdf_textbooks"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }
+        ], 
+        "use_latex_compiler": true, 
+        "user_partitions": [
+            {
+                "active": true, 
+                "description": "The groups in this configuration can be mapped to cohort groups in the LMS.", 
+                "groups": [
+                    {
+                        "id": 1124782865, 
+                        "name": "Group A", 
+                        "version": 1
+                    }, 
+                    {
+                        "id": 254579781, 
+                        "name": "Group B", 
+                        "version": 1
+                    }
+                ], 
+                "id": 691143246, 
+                "name": "Content Group Configuration", 
+                "parameters": {}, 
+                "scheme": "cohort", 
+                "version": 3
+            }, 
+            {
+                "active": true, 
+                "description": "Description for Group Configuration", 
+                "groups": [
+                    {
+                        "id": 455306730, 
+                        "name": "Group A", 
+                        "version": 1
+                    }, 
+                    {
+                        "id": 1762115162, 
+                        "name": "Group B", 
+                        "version": 1
+                    }
+                ], 
+                "id": 1640392374, 
+                "name": "Group Configuration for experiments", 
+                "parameters": {}, 
+                "scheme": "random", 
+                "version": 3
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
+    }
+}

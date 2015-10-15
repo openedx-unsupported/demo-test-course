@@ -1,0 +1,204 @@
+1
+00:00:00,026 --> 00:00:01,051
+ ANANT Agarwal: Benvingut a edx. 
+
+2
+00:00:01,051 --> 00:00:03,148
+ Estic Anant Agarwal, sóc el president de EDX 
+
+3
+00:00:04,048 --> 00:00:06,143
+ Jo també sóc un professor d'enginyeria elèctrica i ciències de la computació 
+
+4
+00:00:07,043 --> 00:00:07,140
+ al MIT. 
+
+5
+00:00:08,004 --> 00:00:10,076
+ L'aprenentatge en línia està revolucionant el món. 
+
+6
+00:00:11,012 --> 00:00:14,029
+ L'educació mai serà el mateix de nou, i edx 
+
+7
+00:00:14,029 --> 00:00:16,065
+ que està a l'avantguarda d'aquesta revolució, 
+
+8
+00:00:16,065 --> 00:00:20,079
+ així que quan vostè pren cursos EDX en línia, vostè és part d'aquesta evolució. 
+
+9
+00:00:20,079 --> 00:00:22,155
+ L'aprenentatge en línia és la democratitzador final. 
+
+10
+00:00:23,055 --> 00:00:25,119
+ Quan s'aprèn a edx, s'està unint a una comunitat. 
+
+11
+00:00:26,019 --> 00:00:31,047
+ Imagineu prenent una classe amb 100.000 o més students-- aquest socials, 
+
+12
+00:00:31,047 --> 00:00:32,044
+ aquest és un munt de diversió. 
+
+13
+00:00:32,467 --> 00:00:34,050
+ Crec que va a gaudir de l'experiència. 
+
+14
+00:00:34,005 --> 00:00:37,040
+ En edx es tracta de la gent, no es tracta de guanys. 
+
+15
+00:00:37,004 --> 00:00:41,070
+ Per a vostè, edx es tracta dels millors camps de golf de les millors escoles i la millor 
+
+16
+00:00:42,006 --> 00:00:42,091
+ professors. 
+
+17
+00:00:42,091 --> 00:00:44,830
+ Convertir-se en un membre de edx és fàcil. 
+
+18
+00:00:45,649 --> 00:00:47,690
+ ALTAVEU 2: Estem molt emocionats de tenir-los aquí. 
+
+19
+00:00:47,069 --> 00:00:50,156
+ Aconseguirem que started-- ràpida, tres senzills passos, navegar, 
+
+20
+00:00:51,056 --> 00:00:53,099
+ triar, i passar una bona estona. 
+
+21
+00:00:53,099 --> 00:00:57,151
+ La inscripció es segon, i una vegada que es registri simplement navegar pels cursos. 
+
+22
+00:00:58,051 --> 00:01:00,087
+ Quan trobes alguna cosa que t'agrada, feu clic. 
+
+23
+00:01:00,087 --> 00:01:00,186
+ És així de fàcil. 
+
+24
+00:01:01,086 --> 00:01:04,115
+ Trieu amb compte, vostè està seleccionant els cursos de les millors escoles 
+
+25
+00:01:05,015 --> 00:01:06,057
+ al voltant del món. 
+
+26
+00:01:06,057 --> 00:01:08,057
+ Assegureu-vos de revisar els requisits previs. 
+
+27
+00:01:08,057 --> 00:01:10,993
+ Ara vostè pot triar el seu curs i ja està en camí. 
+
+28
+00:01:11,506 --> 00:01:12,509
+ Benvingut al club. 
+
+29
+00:01:12,509 --> 00:01:15,550
+ ALTAVEU 3: Ara que t'has registrat per al curs, pot veure cursos. 
+
+30
+00:01:15,055 --> 00:01:18,068
+ El material didàctic està format per grans vídeos, comentaris automatitzat, 
+
+31
+00:01:18,068 --> 00:01:21,103
+ i característiques interactives fresc, tot per propi ritme d'aprenentatge. 
+
+32
+00:01:22,003 --> 00:01:24,008
+ Els interactius estan dissenyats per ajudar a 
+
+33
+00:01:24,008 --> 00:01:26,063
+ explorar la seva comprensió dels conceptes clau. 
+
+34
+00:01:26,063 --> 00:01:29,219
+ Una gran part de edx està rebent retroalimentació instantània en les seves respostes, 
+
+35
+00:01:29,786 --> 00:01:31,660
+ amb freqüència en la forma d'una marca de verificació verda. 
+
+36
+00:01:31,066 --> 00:01:33,065
+ En un munt de preguntes, pot intentar tantes vegades 
+
+37
+00:01:33,659 --> 00:01:35,570
+ com sigui necessari per aconseguir que la resposta correcta. 
+
+38
+00:01:35,057 --> 00:01:37,149
+ Els cursos poden ser dur, ens assegurem que són rigorosos, 
+
+39
+00:01:38,049 --> 00:01:39,794
+ però també pot ser un munt de diversió. 
+
+40
+00:01:40,235 --> 00:01:42,970
+ Una gran part de edx és l'aspecte social. 
+
+41
+00:01:42,097 --> 00:01:44,166
+ Pot ser un socials com vulgui en els fòrums de discussió. 
+
+42
+00:01:45,066 --> 00:01:47,094
+ En els nostres fòrums, hi ha una comunitat activa. 
+
+43
+00:01:47,094 --> 00:01:49,179
+ No és només els professors, els estudiants s'ajuden mútuament. 
+
+44
+00:01:50,079 --> 00:01:53,191
+ Un curs típic pot executar una longitud semestre, o al voltant de 12 setmanes. 
+
+45
+00:01:53,902 --> 00:01:56,610
+ Al final d'aquest curs, si s'ha complert amb els requisits del curs, 
+
+46
+00:01:56,061 --> 00:01:57,068
+ es pot obtenir un certificat de domini. 
+
+47
+00:01:58,031 --> 00:02:01,092
+ Una vegada que hagis completat el curs, vostè és part del nostre grup d'estudiants de per vida. 
+
+48
+00:02:01,092 --> 00:02:04,130
+ ANANT Agarwal: La missió de EDX és per ajudar a obtenir una educació de qualitat. 
+
+49
+00:02:05,003 --> 00:02:09,592
+ EDX augmentarà l'accés a l'aprenentatge dels estudiants, com a tu mateix a tot el món. 
+
+50
+00:02:09,889 --> 00:02:13,350
+ Això és divertit, és emocionant, i això és revolucionari. 
+
+51
+00:02:13,035 --> 00:02:16,069
+ Benvingut a edx, uneix-te a nosaltres. 
+

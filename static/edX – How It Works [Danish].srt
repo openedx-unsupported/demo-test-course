@@ -1,0 +1,204 @@
+1
+00:00:00,026 --> 00:00:01,051
+ Anant Agarwal: Velkommen til EDX. 
+
+2
+00:00:01,051 --> 00:00:03,148
+ Jeg er Anant Agarwal, jeg er præsident for EDX, 
+
+3
+00:00:04,048 --> 00:00:06,143
+ Jeg er også en professor i elektroteknik og datalogi 
+
+4
+00:00:07,043 --> 00:00:07,140
+ på MIT. 
+
+5
+00:00:08,004 --> 00:00:10,076
+ Online læring revolutionere verden. 
+
+6
+00:00:11,012 --> 00:00:14,029
+ Uddannelse bliver aldrig det samme igen, og EDX 
+
+7
+00:00:14,029 --> 00:00:16,065
+ er på forkant med denne revolution, 
+
+8
+00:00:16,065 --> 00:00:20,079
+ så når du tager EDX kurser online, du er en del af denne udvikling. 
+
+9
+00:00:20,079 --> 00:00:22,155
+ Online læring er den ultimative democratizer. 
+
+10
+00:00:23,055 --> 00:00:25,119
+ Når du lærer på EDX, du slutter et fællesskab. 
+
+11
+00:00:26,019 --> 00:00:31,047
+ Forestil dig at tage en klasse med 100.000 eller mere students-- denne sociale, 
+
+12
+00:00:31,047 --> 00:00:32,044
+ dette er en masse sjov. 
+
+13
+00:00:32,467 --> 00:00:34,050
+ Jeg tror, ​​du vil nyde oplevelsen. 
+
+14
+00:00:34,005 --> 00:00:37,040
+ Hos EDX det handler om mennesker, det handler ikke om profit. 
+
+15
+00:00:37,004 --> 00:00:41,070
+ For dig, EDX er om de bedste kurser fra de bedste skoler og de bedste 
+
+16
+00:00:42,006 --> 00:00:42,091
+ professorer. 
+
+17
+00:00:42,091 --> 00:00:44,830
+ At blive medlem af EDX er nemt. 
+
+18
+00:00:45,649 --> 00:00:47,690
+ SPEAKER 2: Vi er virkelig glade for at have dig her. 
+
+19
+00:00:47,069 --> 00:00:50,156
+ Vi kommer til at få dig started-- hurtig, tre nemme trin, gennemse, 
+
+20
+00:00:51,056 --> 00:00:53,099
+ vælger, og have nogle sjove. 
+
+21
+00:00:53,099 --> 00:00:57,151
+ Registrering tager sekunder, og når du registrere bare gennemse kurserne. 
+
+22
+00:00:58,051 --> 00:01:00,087
+ Når du finder noget, du kan lide, skal du klikke på det. 
+
+23
+00:01:00,087 --> 00:01:00,186
+ Det er så let. 
+
+24
+00:01:01,086 --> 00:01:04,115
+ Vælg med omhu, du vælge kurser fra de bedste skoler 
+
+25
+00:01:05,015 --> 00:01:06,057
+ i hele verden. 
+
+26
+00:01:06,057 --> 00:01:08,057
+ Sørg for at kontrollere forudsætningerne. 
+
+27
+00:01:08,057 --> 00:01:10,993
+ Nu kan du vælge dit kursus og du er på vej. 
+
+28
+00:01:11,506 --> 00:01:12,509
+ Velkommen til klubben. 
+
+29
+00:01:12,509 --> 00:01:15,550
+ SPEAKER 3: Nu hvor du har tilmeldt dig til kursus, kan du få vist kursusmateriale. 
+
+30
+00:01:15,055 --> 00:01:18,068
+ Kursusmateriale består af fantastiske videoer, automatiseret feedback, 
+
+31
+00:01:18,068 --> 00:01:21,103
+ og seje interaktive funktioner, alle for selvinstruerende. 
+
+32
+00:01:22,003 --> 00:01:24,008
+ De interactives er designet til at hjælpe dig 
+
+33
+00:01:24,008 --> 00:01:26,063
+ udforske din forståelse af centrale begreber. 
+
+34
+00:01:26,063 --> 00:01:29,219
+ En stor del af EDX er at få øjeblikkelig feedback på dine svar, 
+
+35
+00:01:29,786 --> 00:01:31,660
+ ofte i form af en grøn markering. 
+
+36
+00:01:31,066 --> 00:01:33,065
+ I en masse spørgsmål, kan du prøve så mange gange 
+
+37
+00:01:33,659 --> 00:01:35,570
+ som du har brug for at få det rigtige svar. 
+
+38
+00:01:35,057 --> 00:01:37,149
+ Kurser kan være svært, sikrer vi, at de er strenge, 
+
+39
+00:01:38,049 --> 00:01:39,794
+ men de kan også være en masse sjov. 
+
+40
+00:01:40,235 --> 00:01:42,970
+ En stor del af EDX er det sociale aspekt. 
+
+41
+00:01:42,097 --> 00:01:44,166
+ Du kan være en social som du ønsker på debatsider. 
+
+42
+00:01:45,066 --> 00:01:47,094
+ I vores forum, der er et aktivt fællesskab. 
+
+43
+00:01:47,094 --> 00:01:49,179
+ Det er ikke bare professorerne, hjælpe eleverne hinanden. 
+
+44
+00:01:50,079 --> 00:01:53,191
+ En typisk kursus kan køre en længde semester, eller omkring 12 uger. 
+
+45
+00:01:53,902 --> 00:01:56,610
+ Ved slutningen af ​​denne selvfølgelig, hvis du har mødt kurset krav, 
+
+46
+00:01:56,061 --> 00:01:57,068
+ du kan få et certifikat for beherskelse. 
+
+47
+00:01:58,031 --> 00:02:01,092
+ Når du har gennemført kurset, er du en del af vores gruppe af livslang lærende. 
+
+48
+00:02:01,092 --> 00:02:04,130
+ Anant Agarwal: EDX mission er at hjælpe dig med at få en uddannelse af høj kvalitet. 
+
+49
+00:02:05,003 --> 00:02:09,592
+ EDX vil øge adgangen til læring for studerende som dig selv på verdensplan. 
+
+50
+00:02:09,889 --> 00:02:13,350
+ Det er sjovt, det er spændende, og det er revolutionerende. 
+
+51
+00:02:13,035 --> 00:02:16,069
+ Velkommen til EDX, kom slutte sig til os. 
+

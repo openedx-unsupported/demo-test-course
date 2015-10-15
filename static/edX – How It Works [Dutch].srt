@@ -1,0 +1,204 @@
+1
+00:00:00,026 --> 00:00:01,051
+ Anant Agarwal: Welcome to EDX. 
+
+2
+00:00:01,051 --> 00:00:03,148
+ Ik ben Anant Agarwal, ik ben de president van EDX, 
+
+3
+00:00:04,048 --> 00:00:06,143
+ Ik ben ook een professor in de elektrotechniek en informatica 
+
+4
+00:00:07,043 --> 00:00:07,140
+ aan het MIT. 
+
+5
+00:00:08,004 --> 00:00:10,076
+ Online leren is een revolutie in de wereld. 
+
+6
+00:00:11,012 --> 00:00:14,029
+ Onderwijs zal nooit meer hetzelfde zijn, en edx 
+
+7
+00:00:14,029 --> 00:00:16,065
+ is op het snijvlak van deze revolutie, 
+
+8
+00:00:16,065 --> 00:00:20,079
+ dus als je edx cursussen online te nemen, maak je deel uit van deze evolutie. 
+
+9
+00:00:20,079 --> 00:00:22,155
+ Online leren is de ultieme democratizer. 
+
+10
+00:00:23,055 --> 00:00:25,119
+ Wanneer je leert op EDX, bent u lid worden van een community. 
+
+11
+00:00:26,019 --> 00:00:31,047
+ Stel je voor het nemen van een klasse met 100.000 of meer students-- deze sociale, 
+
+12
+00:00:31,047 --> 00:00:32,044
+ dit is een veel plezier. 
+
+13
+00:00:32,467 --> 00:00:34,050
+ Ik denk dat u zult genieten van de ervaring. 
+
+14
+00:00:34,005 --> 00:00:37,040
+ Bij edx het gaat over mensen, het gaat niet om de winst. 
+
+15
+00:00:37,004 --> 00:00:41,070
+ Voor u, edx gaat over de beste golfbanen van de beste scholen en de beste 
+
+16
+00:00:42,006 --> 00:00:42,091
+ professoren. 
+
+17
+00:00:42,091 --> 00:00:44,830
+ Lid worden van EDX is eenvoudig. 
+
+18
+00:00:45,649 --> 00:00:47,690
+ Luidspreker 2: We zijn erg blij dat je er bent. 
+
+19
+00:00:47,069 --> 00:00:50,156
+ We gaan krijg je started-- snel, drie eenvoudige stappen, bladeren, 
+
+20
+00:00:51,056 --> 00:00:53,099
+ kiezen, en heb plezier. 
+
+21
+00:00:53,099 --> 00:00:57,151
+ Inschrijving vindt seconden, en als je eenmaal registreren gewoon bladeren van de cursussen. 
+
+22
+00:00:58,051 --> 00:01:00,087
+ Als je iets dat je leuk vindt, klik erop. 
+
+23
+00:01:00,087 --> 00:01:00,186
+ Zo eenvoudig is dat. 
+
+24
+00:01:01,086 --> 00:01:04,115
+ Kies verstandig, je bent te selecteren cursussen van de beste scholen 
+
+25
+00:01:05,015 --> 00:01:06,057
+ over de hele wereld. 
+
+26
+00:01:06,057 --> 00:01:08,057
+ Zorg ervoor dat u de voorwaarden te controleren. 
+
+27
+00:01:08,057 --> 00:01:10,993
+ Nu kunt u uw opleiding en u bent op weg. 
+
+28
+00:01:11,506 --> 00:01:12,509
+ Welkom bij de club. 
+
+29
+00:01:12,509 --> 00:01:15,550
+ SPEAKER 3: Nu dat u zich heeft aangemeld voor de cursus kunt u courseware bekijken. 
+
+30
+00:01:15,055 --> 00:01:18,068
+ Het cursusmateriaal bestaat uit grote video's, geautomatiseerde feedback, 
+
+31
+00:01:18,068 --> 00:01:21,103
+ en koele interactieve features, allemaal voor eigen tempo leren. 
+
+32
+00:01:22,003 --> 00:01:24,008
+ De interactieve elementen zijn ontworpen om u te helpen 
+
+33
+00:01:24,008 --> 00:01:26,063
+ verken uw begrip van de belangrijkste concepten. 
+
+34
+00:01:26,063 --> 00:01:29,219
+ Een groot deel van EDX krijgt direct feedback op uw antwoorden, 
+
+35
+00:01:29,786 --> 00:01:31,660
+ vaak in de vorm van een groen vinkje. 
+
+36
+00:01:31,066 --> 00:01:33,065
+ In een heleboel vragen, kunt u proberen zo vaak 
+
+37
+00:01:33,659 --> 00:01:35,570
+ als je nodig hebt om dat recht antwoord te krijgen. 
+
+38
+00:01:35,057 --> 00:01:37,149
+ Cursussen kan hard zijn, zorgen we ervoor dat ze streng, 
+
+39
+00:01:38,049 --> 00:01:39,794
+ maar ze kunnen ook heel leuk zijn. 
+
+40
+00:01:40,235 --> 00:01:42,970
+ Een groot deel van EDX is het sociale aspect. 
+
+41
+00:01:42,097 --> 00:01:44,166
+ U kunt een sociaal als u wilt op de prikborden. 
+
+42
+00:01:45,066 --> 00:01:47,094
+ In onze forums, is er een actieve gemeenschap. 
+
+43
+00:01:47,094 --> 00:01:49,179
+ Het is niet alleen de professoren, studenten elkaar helpen. 
+
+44
+00:01:50,079 --> 00:01:53,191
+ Een typische cursus kan een semester lang, of ongeveer 12 weken lopen. 
+
+45
+00:01:53,902 --> 00:01:56,610
+ Aan het eind van die cursus, als je hebt voldaan aan de cursus eisen, 
+
+46
+00:01:56,061 --> 00:01:57,068
+ U kunt een certificaat van meesterschap te krijgen. 
+
+47
+00:01:58,031 --> 00:02:01,092
+ Zodra u de cursus hebt voltooid, je bent een deel van onze groep van levenslang leren. 
+
+48
+00:02:01,092 --> 00:02:04,130
+ Anant Agarwal: EDX missie is om u te helpen een kwaliteit van het onderwijs. 
+
+49
+00:02:05,003 --> 00:02:09,592
+ Edx toegang te verhogen tot het leren voor studenten zoals uzelf wereldwijd. 
+
+50
+00:02:09,889 --> 00:02:13,350
+ Dit is leuk, het is spannend, en dat is revolutionair. 
+
+51
+00:02:13,035 --> 00:02:16,069
+ Welkom bij EDX, kom bij ons. 
+

@@ -1,0 +1,204 @@
+1
+00:00:00,026 --> 00:00:01,051
+ Anant Agarwal: Welcome to edX. 
+
+2
+00:00:01,051 --> 00:00:03,148
+ Naiz Anant Agarwal, edX presidenteak naiz, 
+
+3
+00:00:04,048 --> 00:00:06,143
+ Nago, halaber, ingeniaritza elektrikoa eta informatikako irakaslea da 
+
+4
+00:00:07,043 --> 00:00:07,140
+ MIT. 
+
+5
+00:00:08,004 --> 00:00:10,076
+ Online ikaskuntza mundua hankaz gora. 
+
+6
+00:00:11,012 --> 00:00:14,029
+ Hezkuntza ez da inoiz berdina izango, eta edX 
+
+7
+00:00:14,029 --> 00:00:16,065
+ ebaketa iraultza honen ertzean da, 
+
+8
+00:00:16,065 --> 00:00:20,079
+ beraz, edX ikastaroak egin duzun online, bilakaera honen parte zara. 
+
+9
+00:00:20,079 --> 00:00:22,155
+ Online ikaskuntza azken democratizer da. 
+
+10
+00:00:23,055 --> 00:00:25,119
+ Noiz ikasiko duzu edX on, komunitate batek batu zaren. 
+
+11
+00:00:26,019 --> 00:00:31,047
+ Imajinatu 100.000 edo gehiagorekin klase bat hartuz gizarte honetan students--, 
+
+12
+00:00:31,047 --> 00:00:32,044
+ hau fun asko da. 
+
+13
+00:00:32,467 --> 00:00:34,050
+ Esperientzia gozatu ahal izango duzu uste dut. 
+
+14
+00:00:34,005 --> 00:00:37,040
+ EdX berean pertsona inguru, ez da irabazirik buruz. 
+
+15
+00:00:37,004 --> 00:00:41,070
+ Zuretzat, edX onena eta onena ikastaro onena buruz da 
+
+16
+00:00:42,006 --> 00:00:42,091
+ irakasleek. 
+
+17
+00:00:42,091 --> 00:00:44,830
+ EdX kide izatera erraza da. 
+
+18
+00:00:45,649 --> 00:00:47,690
+ HIZLARIA 2: benetan hunkituta duzu hemen ari gara. 
+
+19
+00:00:47,069 --> 00:00:50,156
+ Started-- duzu azkar, hiru pausotan, nabigatzen lortu goaz, 
+
+20
+00:00:51,056 --> 00:00:53,099
+ aukeratu, eta dibertigarri batzuk. 
+
+21
+00:00:53,099 --> 00:00:57,151
+ Izen-ematea segundo irauten du, eta behin erregistratu duzula besterik nabigatzen ikastaroetan. 
+
+22
+00:00:58,051 --> 00:01:00,087
+ Gustuko duten zerbait aurkituko duzu, sakatu berori. 
+
+23
+00:01:00,087 --> 00:01:00,186
+ Oso erraz. 
+
+24
+00:01:01,086 --> 00:01:04,115
+ Aukeratu zentzuzkoa, onena ikastaro hautatzen ari zaren 
+
+25
+00:01:05,015 --> 00:01:06,057
+ munduan zehar. 
+
+26
+00:01:06,057 --> 00:01:08,057
+ Ziurtatu baldintzen egiaztatzeko. 
+
+27
+00:01:08,057 --> 00:01:10,993
+ Ikastaro aukeratu ahal izango duzu, eta ez zara zure bidean. 
+
+28
+00:01:11,506 --> 00:01:12,509
+ Ongi klubari. 
+
+29
+00:01:12,509 --> 00:01:15,550
+ HIZLARIA: 3 Orain duzula sinatu Nik ikastarorako, Courseware ikusi ahal izango duzu. 
+
+30
+00:01:15,055 --> 00:01:18,068
+ Courseware osatzen bideoak handia, iritzia automatizatuen, 
+
+31
+00:01:18,068 --> 00:01:21,103
+ eta funtzio interaktibo cool, norberaren erritmoan ikasteko guztiak. 
+
+32
+00:01:22,003 --> 00:01:24,008
+ Interactives The laguntzeko diseinatuta daude 
+
+33
+00:01:24,008 --> 00:01:26,063
+ Zure funtsezko kontzeptuak ulertzeko arakatzeko. 
+
+34
+00:01:26,063 --> 00:01:29,219
+ EdX zati handi bat zure erantzunak berehalako feedback ari da, 
+
+35
+00:01:29,786 --> 00:01:31,660
+ Maiz berdea hautamarka bat forma. 
+
+36
+00:01:31,066 --> 00:01:33,065
+ Galdera asko ere, adina aldiz saiatu dezakezu 
+
+37
+00:01:33,659 --> 00:01:35,570
+ erantzun egokia hori lortzeko behar duzun bezala. 
+
+38
+00:01:35,057 --> 00:01:37,149
+ Ikastaroak gogorra izan daiteke, ziur zorrotz ari dira egiten dugu, 
+
+39
+00:01:38,049 --> 00:01:39,794
+ baina, era berean, dibertsio asko izango dute. 
+
+40
+00:01:40,235 --> 00:01:42,970
+ EdX zati handi bat gizarte arloa. 
+
+41
+00:01:42,097 --> 00:01:44,166
+ Gizarte bat izan dezakezu, eztabaida-batzordeak, nahi duzun bezala. 
+
+42
+00:01:45,066 --> 00:01:47,094
+ Gure foroak, ez dago komunitate aktibo bat da. 
+
+43
+00:01:47,094 --> 00:01:49,179
+ Ez da bakarrik irakasleek, ikasleek elkarri laguntzeko egindako. 
+
+44
+00:01:50,079 --> 00:01:53,191
+ Jakina tipikoa A seihilekoa luzera a, edo aste 12 bat exekutatu daiteke. 
+
+45
+00:01:53,902 --> 00:01:56,610
+ Jakina horren amaieran, zuk ezagutu bazait noski betekizunak, 
+
+46
+00:01:56,061 --> 00:01:57,068
+ maisutasun ziurtagiri bat eskuratu ahal izango duzu. 
+
+47
+00:01:58,031 --> 00:02:01,092
+ Ikastaroa amaitzean, gure bizitza osoko Ikasle talde parte zara. 
+
+48
+00:02:01,092 --> 00:02:04,130
+ Anant Agarwal: EdX eginkizuna da kalitatezko hezkuntza bat lortzeko lagunduko dizu. 
+
+49
+00:02:05,003 --> 00:02:09,592
+ EdX sarbidea handitu egingo da ikasleentzat, besteak beste, zeure burua bezala mundu osoan ikasteko. 
+
+50
+00:02:09,889 --> 00:02:13,350
+ Hau dibertigarria da, hau da, zirraragarria, eta hau da iraultzailea. 
+
+51
+00:02:13,035 --> 00:02:16,069
+ Ongi edX den, zatoz gurekin. 
+
