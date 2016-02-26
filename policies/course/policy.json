@@ -40,7 +40,6 @@
             }
         ], 
         "is_new": false, 
-        "ispublic": false, 
         "language": "en", 
         "minimum_grade_credit": 0.8, 
         "mobile_available": true, 
@@ -83,17 +82,16 @@
             }
         ], 
         "show_calculator": true, 
-        "show_chat": true, 
         "show_reset_button": true, 
         "start": "2015-10-01T00:30:00Z", 
         "tabs": [
             {
-                "name": "Courseware", 
-                "type": "courseware"
+                "name": "Home", 
+                "type": "course_info"
             }, 
             {
-                "name": "Course Info", 
-                "type": "course_info"
+                "name": "Course", 
+                "type": "courseware"
             }, 
             {
                 "name": "Discussion", 
@@ -175,7 +173,9 @@
             "filename": [
                 "course/course.xml", 
                 "course/course.xml"
-            ]
+            ], 
+            "ispublic": false, 
+            "show_chat": true
         }
     }
 }

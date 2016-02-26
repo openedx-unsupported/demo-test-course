@@ -1,5 +1,5 @@
 <vertical display_name="Default">
-  <openassessment url_name="b9f982058eca45f48b5e3a8b7bcdd46f" submission_start="2001-01-01T00:00:00" submission_due="2029-01-01T00:00:00" allow_file_upload="False" allow_latex="False">
+  <openassessment url_name="b9f982058eca45f48b5e3a8b7bcdd46f" submission_start="2001-01-01T00:00:00" submission_due="2029-01-01T00:00:00" allow_latex="False">
     <title>Open Response Assessment</title>
     <assessments>
       <assessment name="student-training">
