@@ -1,3 +1,4 @@
-<vertical display_name="Default">
-  <google-document url_name="92ec9fa89f9e459c93c64b027723a7fb" xblock-family="xblock.v1"/>
+<vertical display_name="Google Drive Files Tool">
+  <html url_name="85d46812a2544167adbd234e31750dbc"/>
+  <google-document url_name="92ec9fa89f9e459c93c64b027723a7fb" xblock-family="xblock.v1" alt_text="" display_name="Google Drive Files Tool Example" embed_code="&lt;iframe &#10;title=&quot;Google Drive Tool Presentation&quot;   src=&quot;https://docs.google.com/presentation/d/1x2ZuzqHsMoh1epK8VsGAlanSo7r9z55ualwQlj-ofBQ/embed?start=true&amp;loop=true&amp;delayms=10000&quot;&#10;    frameborder=&quot;0&quot;&#10;    width=&quot;960&quot;&#10;    height=&quot;569&quot;&#10;    allowfullscreen=&quot;true&quot;&#10;    mozallowfullscreen=&quot;true&quot;&#10;    webkitallowfullscreen=&quot;true&quot;&gt;&#10;&lt;/iframe&gt;&#10;"/>
 </vertical>

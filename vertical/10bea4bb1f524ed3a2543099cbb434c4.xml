@@ -1,3 +1,4 @@
-<vertical display_name="Default">
-  <poll url_name="01948ffd7e304ecda821e36e35ef5a93" xblock-family="xblock.v1"/>
+<vertical display_name="Poll Tool">
+  <html url_name="e0b6e710fd1c4bb79984d6aef8188582"/>
+  <poll url_name="01948ffd7e304ecda821e36e35ef5a93" xblock-family="xblock.v1" feedback="" display_name="Poll Tool Example" private_results="false" question="What is your favorite color?" max_submissions="1" answers="[&#10;  [&#10;    &quot;R&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Red&quot;&#10;    }&#10;  ],&#10;  [&#10;    &quot;B&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Blue&quot;&#10;    }&#10;  ],&#10;  [&#10;    &quot;G&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Green&quot;&#10;    }&#10;  ],&#10;  [&#10;    &quot;O&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Other&quot;&#10;    }&#10;  ]&#10;]"/>
 </vertical>

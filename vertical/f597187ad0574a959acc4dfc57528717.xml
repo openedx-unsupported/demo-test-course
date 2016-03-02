@@ -1,3 +1,4 @@
-<vertical display_name="Default">
-  <google-calendar url_name="08c37d99bbba4695ab61a773cf532271" xblock-family="xblock.v1"/>
+<vertical display_name="Google Calendar Tool">
+  <html url_name="c9c3495db8b64870839b09adb2113c9e"/>
+  <google-calendar url_name="08c37d99bbba4695ab61a773cf532271" xblock-family="xblock.v1" calendar_id="edx.org_lom804qe3ttspplj1bgeu1l3ak@group.calendar.google.com" default_view="1" display_name="Google Calendar Tool Example"/>
 </vertical>

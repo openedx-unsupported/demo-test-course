@@ -1,4 +1,4 @@
-<problem display_name="Gene Explorer tool" markdown="null" showanswer="attempted">
+<problem display_name="Gene Explorer Tool Example" markdown="null" showanswer="attempted">
   <p>Make a single base pair substitution mutation in the gene below that results in a protein that is longer than the protein produced by the original gene. When you are satisfied with your change and its effect, click the <b>SUBMIT</b> button.</p>
   <p>Note that a "single base pair substitution mutation" is when a single base is changed to another base; for example, changing the A at position 80 to a T. Deletions and insertions are not allowed.</p>
   <script type="loncapa/python">

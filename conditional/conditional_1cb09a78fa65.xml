@@ -1,3 +1,3 @@
-<conditional sources="i4x://edX/Test101/problem/15858bfed68148659cc19ab510450e78;i4x://edX/Test101/problem/05976a80a8b04e898d27f34af7ff8501" message="{link} This is the message on the first conditional." attempted="True">
+<conditional display_name="Conditional Module Example - Multiple Problems" sources="i4x://edX/Test101/problem/15858bfed68148659cc19ab510450e78;i4x://edX/Test101/problem/05976a80a8b04e898d27f34af7ff8501" message="{link} This is the message on the first conditional." attempted="True">
   <html url_name="HTML_for_attempted_problems"/>
 </conditional>

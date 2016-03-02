@@ -1,4 +1,4 @@
-<annotatable>
+<annotatable display_name="Annotation Example">
   <instructions>
     <p>Enter your (optional) instructions for the exercise in HTML format.</p>
     <p>Annotations are specified by an <code>&lt;annotation&gt;</code> tag which may may have the following attributes:</p>

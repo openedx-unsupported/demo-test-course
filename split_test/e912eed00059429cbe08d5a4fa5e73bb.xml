@@ -1,4 +1,4 @@
-<split_test group_id_to_child="{&quot;1762115162&quot;: &quot;i4x://edX/Test101/vertical/171b4e83746b436296728f8e266b59e3&quot;, &quot;455306730&quot;: &quot;i4x://edX/Test101/vertical/2eeda4b3431e41fa9d09c791dee19f6f&quot;}" user_partition_id="1640392374">
+<split_test group_id_to_child="{&quot;1762115162&quot;: &quot;i4x://edX/Test101/vertical/171b4e83746b436296728f8e266b59e3&quot;, &quot;455306730&quot;: &quot;i4x://edX/Test101/vertical/2eeda4b3431e41fa9d09c791dee19f6f&quot;}" user_partition_id="1640392374" display_name="Content Experiment Example">
   <vertical url_name="2eeda4b3431e41fa9d09c791dee19f6f"/>
   <vertical url_name="171b4e83746b436296728f8e266b59e3"/>
 </split_test>
