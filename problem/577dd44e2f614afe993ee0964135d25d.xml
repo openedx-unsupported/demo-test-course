@@ -1,4 +1,4 @@
-<problem display_name="Custom Javascript Display and Grading" markdown="null" showanswer="never">
+<problem display_name="Custom Javascript Problem Example" markdown="null" showanswer="never">
   <p>
 In these problems (also called custom JavaScript problems or JS Input
 problems), you add a problem or tool that uses JavaScript in Studio.

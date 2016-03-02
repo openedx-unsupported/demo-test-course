@@ -1,6 +1,0 @@
-<vertical display_name="introduction">
-  <html url_name="8ff96e174f244539b25c911e71231b3b"/>
-  <poll url_name="e538b63aa9b24c8ab1e756be8c7abecb" xblock-family="xblock.v1" feedback="" display_name="Base poll 1" private_results="false" question="What is your favorite color?" max_submissions="1" answers="[&#10;  [&#10;    &quot;R&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Red&quot;&#10;    }&#10;  ],&#10;  [&#10;    &quot;B&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Blue&quot;&#10;    }&#10;  ],&#10;  [&#10;    &quot;G&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Green&quot;&#10;    }&#10;  ],&#10;  [&#10;    &quot;O&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Other&quot;&#10;    }&#10;  ]&#10;]"/>
-  <problem url_name="15858bfed68148659cc19ab510450e78"/>
-  <problem url_name="05976a80a8b04e898d27f34af7ff8501"/>
-</vertical>

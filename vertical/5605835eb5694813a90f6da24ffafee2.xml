@@ -1,5 +1,5 @@
 <vertical display_name="Staff Graded Assignments">
   <html url_name="595aec70a9754d6b82b7973ef84277c7"/>
   <html url_name="49a5463fb37c434f9ce0355bd2aa796e"/>
-  <edx_sga url_name="5f641b97f17741ddab10de5663941e7d" xblock-family="xblock.v1"/>
+  <edx_sga url_name="5f641b97f17741ddab10de5663941e7d" xblock-family="xblock.v1" weight="null" display_name="Staff Graded Assignment Example"/>
 </vertical>

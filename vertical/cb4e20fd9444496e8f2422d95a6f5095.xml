@@ -1,3 +1,4 @@
-<vertical display_name="Default">
-  <survey url_name="842ba3d0c0074ad4b664655fdf46f2fb" xblock-family="xblock.v1"/>
+<vertical display_name="Survey Tool">
+  <html url_name="beaa337c89d94b9bb30b3f5a9298334c"/>
+  <survey url_name="842ba3d0c0074ad4b664655fdf46f2fb" xblock-family="xblock.v1" questions="[&#10;  [&#10;    &quot;enjoy&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Are you enjoying the course?&quot;&#10;    }&#10;  ],&#10;  [&#10;    &quot;recommend&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Would you recommend this course to your friends?&quot;&#10;    }&#10;  ],&#10;  [&#10;    &quot;learn&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;Do you think you will learn a lot?&quot;&#10;    }&#10;  ]&#10;]" feedback="" private_results="false" block_name="Survey Tool Example" max_submissions="1" answers="[&#10;  [&#10;    &quot;Y&quot;,&#10;    &quot;Yes&quot;&#10;  ],&#10;  [&#10;    &quot;N&quot;,&#10;    &quot;No&quot;&#10;  ],&#10;  [&#10;    &quot;M&quot;,&#10;    &quot;Maybe&quot;&#10;  ]&#10;]"/>
 </vertical>

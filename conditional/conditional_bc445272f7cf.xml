@@ -1,3 +1,3 @@
-<conditional sources="i4x://edX/Test101/poll/e538b63aa9b24c8ab1e756be8c7abecb" message="{link} must be voted Blue for this to become visible." poll_answer="blue">
+<conditional display_name="Conditional Example 2 - Poll" sources="i4x://edX/Test101/poll/e538b63aa9b24c8ab1e756be8c7abecb" message="{link} must be voted Blue for this to become visible." poll_answer="blue">
   <html url_name="html_6f2e646913d2"/>
 </conditional>

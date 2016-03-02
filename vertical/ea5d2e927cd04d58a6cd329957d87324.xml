@@ -1,4 +1,5 @@
-<vertical display_name="Default">
+<vertical display_name="Recommender">
+  <html url_name="43d64f68caa9476280dbdab2c7bf5b7e"/>
   <recommender url_name="89ea444137c74375805a15ad1dde3ec8" intro_enabled="true" disable_dev_ux="true" entries_per_page="5" page_span="2">
     <resources>{}</resources>
   </recommender>
