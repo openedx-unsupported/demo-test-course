@@ -1,6 +1,6 @@
 <vertical display_name="Open Response Assessments">
   <html url_name="d52ef3026a454db182ef40744e528ac3"/>
-  <openassessment url_name="b9f982058eca45f48b5e3a8b7bcdd46f" submission_start="2001-01-01T00:00:00+00:00" submission_due="2029-01-01T00:00:00+00:00" allow_latex="False">
+  <openassessment url_name="b9f982058eca45f48b5e3a8b7bcdd46f" submission_start="2001-01-01T00:00:00" submission_due="2029-01-01T00:00:00" allow_latex="False">
     <title>Open Response Assessment Example</title>
     <assessments>
       <assessment name="student-training">
@@ -19,8 +19,8 @@
           <select criterion="Content" option="Good"/>
         </example>
       </assessment>
-      <assessment name="peer-assessment" must_grade="5" must_be_graded_by="3" start="2001-01-01T00:00:00+00:00" due="2029-01-01T00:00:00+00:00"/>
-      <assessment name="self-assessment" start="2001-01-01T00:00:00+00:00" due="2029-01-01T00:00:00+00:00"/>
+      <assessment name="peer-assessment" must_grade="5" must_be_graded_by="3" start="2001-01-01T00:00:00" due="2029-01-01T00:00:00"/>
+      <assessment name="self-assessment" start="2001-01-01T00:00:00" due="2029-01-01T00:00:00"/>
     </assessments>
     <prompts>
       <prompt>

@@ -1,0 +1,25 @@
+<problem display_name="Midterm Exam" markdown="&gt;&gt;Which of the following countries has the largest population?&lt;&lt;&#10;( ) Brazil {{ timely feedback -- explain why an almost correct answer is wrong }}&#10;( ) Germany&#10;(x) Indonesia&#10;( ) Russia&#10;&#10;[explanation]&#10;According to September 2014 estimates:&#10;The population of Indonesia is approximately 250 million.&#10;The population of Brazil  is approximately 200 million.&#10;The population of Russia is approximately 146 million.&#10;The population of Germany is approximately 81 million.&#10;[explanation]&#10;">
+<p>Which of the following countries has the largest population?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the following countries has the largest population?" type="MultipleChoice">
+    <choice correct="false">Brazil <choicehint>timely feedback -- explain why an almost correct answer is wrong</choicehint></choice>
+    <choice correct="false">Germany</choice>
+    <choice correct="true">Indonesia</choice>
+    <choice correct="false">Russia</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>According to September 2014 estimates:</p>
+<p>The population of Indonesia is approximately 250 million.</p>
+<p>The population of Brazil  is approximately 200 million.</p>
+<p>The population of Russia is approximately 146 million.</p>
+<p>The population of Germany is approximately 81 million.</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,24 @@
+<problem display_name="Final Exam" markdown="&gt;&gt;The following languages are in the Indo-European family:&lt;&lt;&#10;[x] Urdu&#10;[ ] Finnish&#10;[x] Marathi&#10;[x] French&#10;[ ] Hungarian&#10;&#10;Note: Make sure you select all of the correct options—there may be more than one!&#10;&#10;[explanation]&#10;Urdu, Marathi, and French are all Indo-European languages, while Finnish and Hungarian are in the Uralic family.&#10;[explanation]&#10;">
+<p>The following languages are in the Indo-European family:</p>
+<choiceresponse>
+  <checkboxgroup label="The following languages are in the Indo-European family:">
+    <choice correct="true">Urdu</choice>
+    <choice correct="false">Finnish</choice>
+    <choice correct="true">Marathi</choice>
+    <choice correct="true">French</choice>
+    <choice correct="false">Hungarian</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<p>Note: Make sure you select all of the correct options—there may be more than one!</p>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Urdu, Marathi, and French are all Indo-European languages, while Finnish and Hungarian are in the Uralic family.</p>
+
+</div>
+</solution>
+
+</problem>
