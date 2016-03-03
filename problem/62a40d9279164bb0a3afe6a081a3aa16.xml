@@ -1,25 +1,17 @@
 <problem display_name="Text Input Example" markdown="In text input problems, also known as &quot;fill-in-the-blank&quot; problems, learners enter text into a response field. The text can include letters and characters such as punctuation marks. The text that the learner enters must match your specified answer text exactly. You can specify more than one correct answer. Learners must enter a response that matches one of the correct answers exactly.&#10;&#10;When you add the problem, be sure to select Settings to specify a Display Name and other values that apply.&#10;&#10;You can use the following example problem as a model.&#10;&#10;&gt;&gt;What was the first post-secondary school in China to allow both male and female students?&lt;&lt;&#10;&#10;= Nanjing Higher Normal Institute&#10;or= National Central University&#10;or= Nanjing University&#10;&#10;[explanation]&#10;Nanjing Higher Normal Institute first admitted female students in 1920.&#10;[explanation]&#10;">
-<p>In text input problems, also known as "fill-in-the-blank" problems, learners enter text into a response field. The text can include letters and characters such as punctuation marks. The text that the learner enters must match your specified answer text exactly. You can specify more than one correct answer. Learners must enter a response that matches one of the correct answers exactly.</p>
-
-<p>When you add the problem, be sure to select Settings to specify a Display Name and other values that apply.</p>
-
-<p>You can use the following example problem as a model.</p>
-
-<p>What was the first post-secondary school in China to allow both male and female students?</p>
-
-<stringresponse answer="Nanjing Higher Normal Institute" type="ci">
-  <additional_answer answer="National Central University"/>
-  <additional_answer answer="Nanjing University"/>
-  <textline label="What was the first post-secondary school in China to allow both male and female students?" size="20"/>
-</stringresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Nanjing Higher Normal Institute first admitted female students in 1920.</p>
-
-</div>
-</solution>
-
+  <p>In text input problems, also known as "fill-in-the-blank" problems, learners enter text into a response field. The text can include letters and characters such as punctuation marks. The text that the learner enters must match your specified answer text exactly. You can specify more than one correct answer. Learners must enter a response that matches one of the correct answers exactly.</p>
+  <p>When you add the problem, be sure to select Settings to specify a Display Name and other values that apply.</p>
+  <p>You can use the following example problem as a model.</p>
+  <p>What was the first post-secondary school in China to allow both male and female students?</p>
+  <stringresponse answer="Nanjing Higher Normal Institute" type="ci">
+    <additional_answer answer="National Central University"/>
+    <additional_answer answer="Nanjing University"/>
+    <textline label="What was the first post-secondary school in China to allow both male and female students?" size="20"/>
+  </stringresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Nanjing Higher Normal Institute first admitted female students in 1920.</p>
+    </div>
+  </solution>
 </problem>

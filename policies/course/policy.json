@@ -27,7 +27,7 @@
         "end": "2030-12-31T23:30:00Z", 
         "enrollment_end": "2030-12-31T23:30:00Z", 
         "enrollment_start": "2015-10-01T00:30:00Z", 
-        "graceperiod": "300 seconds", 
+        "graceperiod": "1 days", 
         "html_textbooks": [
             {
                 "chapters": [
