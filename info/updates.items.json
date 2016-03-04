@@ -1,14 +1,38 @@
 [
     {
-        "content": "This is a first update with date", 
+        "content": "<p>\n  Welcome to the edX <a href=\"https://github.com/edx/demo-test-course\">demo test course</a>!  This course is designed to provide examples of all the course content types you can create using the edX platform.  It includes examples of all the componenets and problem types found in our documentation, <a href=\"http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/\">Building and Running an edX Course</a>, as well as some features that are works in progress, experimental, or popular third party contributions.\n</p>\n<p>\n  The lastest version of this course is always available in the <a href=\"https://github.com/edx/demo-test-course\">course's github repository</a>.  If you find something missing, feel free to <a href=\"https://github.com/edx/demo-test-course/issues\">open an issue</a>.\n</p>", 
         "date": "October 14, 2015", 
         "id": 1, 
         "status": "visible"
     }, 
     {
-        "content": "This is a second update without date", 
-        "date": "", 
+        "content": "After consulting with the Docs team, it was decided to organize all Exercises and Tools by their level of support: Full, Provisional or No Support. Some modules were renamed to better reflect how they are referenced in documentation.", 
+        "date": "February 26, 2016", 
         "id": 2, 
+        "status": "visible"
+    }, 
+    {
+        "content": "All documentation references have been moved into each test sequence (rather than as a separate module). Consistent conventions for referencing the documentation with link text that describes the destination (mirroring the titles of the destination pages) have also been added. Module titles match their names in documentation and problems and component examples are labeled with the word \"Example\" in their titles.", 
+        "date": "March 1, 2016", 
+        "id": 3, 
+        "status": "visible"
+    }, 
+    {
+        "content": "This update adds a standard grading policy. It also creates a new section of the course for Graded Assignments which consists of a Midterm and Final exam. The Midterm exam is due in the past and the Final exam is due in the future.", 
+        "date": "March 3, 2016", 
+        "id": 4, 
+        "status": "visible"
+    }, 
+    {
+        "content": "This is an example of an update with a blank date.", 
+        "date": "", 
+        "id": 5, 
+        "status": "visible"
+    }, 
+    {
+        "content": "The Course Updates page has been updated with changes made to this course.  From this point forward it will serve as the Release Notes for this course.  The course About page now references the <a href=\"https://github.com/edx/demo-test-course\">github repository for this course</a>.", 
+        "date": "March 4, 2016", 
+        "id": 6, 
         "status": "visible"
     }
 ]
